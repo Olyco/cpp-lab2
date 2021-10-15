@@ -1,0 +1,9 @@
+Student name	Score
+Polina		2
+Ivan		8
+Fedor		2
+Peter		2
+Anna		11
+Pavel		5
+Daria		11
+Vera		11
